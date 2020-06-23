@@ -1,0 +1,48 @@
+28/10/00
+================================================================
+Model Name              : Black Beard The Pirate
+installation directory  : half-life/valve/models/player/blackbeard
+Author                  : Philby	
+Email Address           : philmaclaren@hotmail.com	
+
+Model description       : 	Black beard the Pirate. And His parrot.
+			Black beard the unlucky pirate: peg legged and one eyed. it
+		   	would of been too much to give him a hooked hand.  it was built
+		   	for the upcoming midget mod. Then scaled up and rephysiqued
+		  	he is still a bit smaller than your average model and has very stumpy
+		 	legs
+
+Other info              : will be appearing as a smaller version (Height) in the midget mod
+	              along with: MIB, 70's Disco Midget, Mexican Midget, Evil Clown Midget,
+	             : Midget from snowy River (midget riding a Emu)	
+
+Additional Credits to   : Strykerwolf, debugging after a second rescaling and compiling.
+
+			: Clinton a.k.a: MADNUT. Modelled the parrot for me.
+
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : NO
+New Animation     : Yes: run, walk: modified: death, jump, long jump
+
+
+* Construction *
+Poly Count              : 726
+Vert Count              : ?
+Skin Count              : 1
+Base                    : New model
+Editor used             : 3D Studio Max 3.1, Character Studio 2.2, Photoshop 5.5, Paintshop pro 5.1
+Known Bugs              : There are some issues with the hands deforming. Clipping around the waist and the butt is pretty bad
+Build/Animation time    : Not too Long
+
+* How to use this model *
+
+Just unzip into your Half-Life directory using the paths and select as normal in the model selection screen.
+
+* Copyright / Permissions *
+
+Half-Life is a registered trademark of Sierra Studios.
+
+Freely redistributable, but if you do redistribute it, make sure the zip file is intact and containing an unmodified version of this file. This model is (c) 2000 Philip MacLaren. All rights reserved.
