@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "0", "seq": "8", "file": "player/playersounds/tails/eggman_jump.wav"}], "tri_count": "3742", "hash": "37076d5ad5251cb3743362aaed9072bd"}
+{"events": [{"file": "player/playersounds/tails/eggman_jump.wav", "frame": "0", "seq": "8"}], "tri_count": "3742", "hash": "37076d5ad5251cb3743362aaed9072bd", "seq_groups": 1}
