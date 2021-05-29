@@ -1,0 +1,36 @@
+1-28-00
+
+----------------------------------------------------------------------
+
+Model Name              : Mr. Grinch
+
+Model Author            : BoB
+
+Email                   : clownluv@mindspring.com
+
+Website                 : http://bobs-shak.8m.com
+
+Model description       : Mr. Grinch (who stole Christmas, but then 			  stupidly gave it back)
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 849 faces
+
+Skin Count              : 1 (the eyes are team colored)
+
+Editor used             : 
+		Modeling - Milkshape 1.1	
+		Skin - Photoshop
+
+Known Bugs              : The skel didn't like the crotch area, so when 			  you crouch the legs are a bit messed up.  			  Also since the team color sliders are 			  reversed just make sure the 2 sliders are 			  above each other(not my fault!).
+
+
+Thanks			: Dr. Seuss my favorite author, whoever made 			  the movie, Valve, Mete with Milkshape, 			  Scarecrow for the tuts, ~A.U.S.T.I.N. for the 			  help, my bro for his support, and everyone 			  else
+
+	*The Grinch is the creation of Dr. Seuss.*
+	This is my first ppm for anything.
+	Maybe if people like this I will do the Cat soon.
+	Feedback would be greatly appreciated.
