@@ -1,1 +1,218 @@
-{"seq_groups": 1, "hash": "f134d1f6a3fb176139750a0445d9d117", "tri_count": "132"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "ghost_ref",
+					"polys": 132,
+					"verts": 74
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "f134d1f6a3fb176139750a0445d9d117",
+	"name": "pac_ghost.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "run2"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "run"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "walk"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "moving"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Top",
+			"parent": -1
+		}, 
+		{
+			"name": "Bottom",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "joint4",
+			"parent": -1
+		}, 
+		{
+			"name": "joint5",
+			"parent": -1
+		}, 
+		{
+			"name": "joint6",
+			"parent": -1
+		}
+	],
+	"skins": 4,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "blinky.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "pinky.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "inky.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "clyde.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

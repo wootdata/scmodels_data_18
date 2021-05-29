@@ -1,1 +1,117 @@
-{"seq_groups": 1, "hash": "5b4755e7bb8d4ffcef73e555b7f728a3", "tri_count": "1245"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1245,
+					"verts": 680
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "5b4755e7bb8d4ffcef73e555b7f728a3",
+	"name": "C:\\Backup\\BumperCarFiles\\Models\\otis\\otis.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 45,
+			"name": "seats.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 67,
+			"name": "Clouds.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 29,
+			"name": "Leather.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 30,
+			"name": "donut.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "otis.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "otis_head_wht.bmp",
+			"width": 140
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "kkdonutbox.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

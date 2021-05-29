@@ -1,1 +1,96 @@
-{"seq_groups": 1, "hash": "8c7e63f58b6643ab08292f20748b855a", "tri_count": "230"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "w_penguin_reference",
+					"polys": 230,
+					"verts": 122
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "8c7e63f58b6643ab08292f20748b855a",
+	"name": "c:\\sierra\\half-life\\gearbox\\models\\w_penguin.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 16.000000,
+			"frames": 2,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 16,
+			"name": "fidget"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 25,
+			"name": "jump"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 9,
+			"name": "run"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Root",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone17",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone18",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone19",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 3
+		}, 
+		{
+			"name": "Bone21",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone22",
+			"parent": 5
+		}, 
+		{
+			"name": "Bone24",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone28",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone30",
+			"parent": 4
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "penguin_reference.BMP",
+			"width": 128
+		}
+	],
+	"version": 10
+}

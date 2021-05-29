@@ -1,1 +1,113 @@
-{"seq_groups": 1, "hash": "2cd6ed252b3a11c5621bcbd6bfc09968", "tri_count": "5154", "t_model": "fockewulftriebflugelt.mdl"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "trieb1",
+					"polys": 3690,
+					"verts": 2001
+				}
+			],
+			"name": "mrbond123"
+		}, 
+		{
+			"models": [
+				{
+					"name": "trieb2",
+					"polys": 1464,
+					"verts": 757
+				}
+			],
+			"name": "mrbond123"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "15241f630c99a041c18818cddb68f137",
+	"name": "custom1.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 40.000000,
+			"frames": 7,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "wings4.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "wings2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "metal2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "chongchong.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "a10.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "wings.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "wings3.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 32,
+			"height": 256,
+			"name": "flame.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
