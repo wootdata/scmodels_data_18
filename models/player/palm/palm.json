@@ -1,0 +1,56 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "palm_tree_01_reference",
+					"polys": 104,
+					"verts": 71
+				}, 
+				{
+					"name": "palm_tree_01_reference",
+					"polys": 104,
+					"verts": 71
+				}, 
+				{
+					"name": "palm_tree_01_reference",
+					"polys": 104,
+					"verts": 71
+				}
+			],
+			"name": "size"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "ad16305bf45dc2bc49be43985f283460",
+	"name": "c:\\sierra\\half-life\\gearbox\\models\\palm_tree.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "idle"
+		}
+	],
+	"size": 23780,
+	"skeleton": [
+		{
+			"name": "Box08",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "palm_leaf.BMP",
+			"width": 88
+		}
+	],
+	"version": 10
+}
