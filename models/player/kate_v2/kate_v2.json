@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,12 +25,22 @@
 		{
 			"models": [
 				{
-					"name": "wesker",
-					"polys": 830,
-					"verts": 431
+					"name": "body",
+					"polys": 3132,
+					"verts": 1625
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "head3",
+					"polys": 795,
+					"verts": 429
+				}
+			],
+			"name": "head"
 		}
 	],
 	"controllers": [
@@ -146,30 +156,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +311,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d5ce5681149203bc462d126e7267b8a0",
-	"name": "RE_STARS_Brad.mdl",
+	"md5": "145195996443b1d2e3a87d08b8d00280",
+	"name": "kate.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1224,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1228708,
+	"size": 1517596,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,16 +1326,16 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
@@ -1291,20 +1346,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -1312,21 +1367,39 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 328,
-			"name": "arms.bmp",
-			"width": 500
+			"height": 512,
+			"name": "Kate_body.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
-			"name": "legs.bmp",
-			"width": 380
+			"height": 256,
+			"name": "Kate_pants.bmp",
+			"width": 384
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
-			"name": "head.bmp",
-			"width": 412
+			"height": 192,
+			"name": "Kate_glove.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Kate_id.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "Kate_blue_beret.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Kate_head.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
