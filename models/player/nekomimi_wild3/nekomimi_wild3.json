@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -304,7 +305,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4da51a1555f1a79a9ca2d7855f0fe099",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_wild3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

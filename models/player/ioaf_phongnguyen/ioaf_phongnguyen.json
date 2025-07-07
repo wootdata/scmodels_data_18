@@ -73,6 +73,7 @@
 			"name": "SVEN_Team_Body5"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6dd7f4b4033f27b63871aac29fcb5ffb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_phongnguyen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

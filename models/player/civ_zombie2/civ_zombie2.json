@@ -113,6 +113,7 @@
 			"name": "upper"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e5fd34456b5fc2998d217eb65485443",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "civ_zombie2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

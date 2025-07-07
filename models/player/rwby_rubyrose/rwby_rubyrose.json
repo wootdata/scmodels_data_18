@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e774e1d64b9d9de8908d9a973950fd7b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rwby_rubyrose.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

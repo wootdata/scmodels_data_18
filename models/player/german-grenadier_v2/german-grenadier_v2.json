@@ -22,6 +22,7 @@
 			"name": "gasmask"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -300,7 +301,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ddb446923e0e99560c96913fc6c00a06",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "german-grenadier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

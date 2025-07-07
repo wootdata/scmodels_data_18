@@ -143,6 +143,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "170c78a4eaba2f7afcbb31723b4e6718",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "REZERO_rem.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

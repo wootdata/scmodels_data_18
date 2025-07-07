@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -71,7 +72,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "bc0ca97bfcbd9aa4f4d9c54db7ccae4f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

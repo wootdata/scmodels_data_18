@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7a50a9e9ac7e33b0e1edc0e5816a91c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sariah_ninja.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

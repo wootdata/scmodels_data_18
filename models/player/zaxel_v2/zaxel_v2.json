@@ -63,6 +63,7 @@
 			"name": "Studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4da962e4c11046137d7e00fd9407ee70",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zAxel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

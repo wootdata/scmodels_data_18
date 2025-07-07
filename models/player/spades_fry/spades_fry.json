@@ -28,6 +28,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d99e53fe517435107263095294a5a47d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SPADES_Fry.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

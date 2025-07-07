@@ -22,12 +22,17 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1359165951,
 	"events": [],
 	"id": 1414743113,
 	"md5": "15241f630c99a041c18818cddb68f137",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "custom1.mdl",
+	"preview": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

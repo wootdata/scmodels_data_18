@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -764,7 +765,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8dccfbd0b66c64843c4768ab06a059fb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hololive_korone-c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

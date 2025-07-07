@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eee2a7e1b9f1118aebf91c126e0f18e8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_Harbour.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

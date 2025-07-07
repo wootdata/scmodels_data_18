@@ -113,6 +113,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4f4c2bf81f0d91bcfee13e626ad1037c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DA_Kaito_Shion.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

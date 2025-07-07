@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -287,7 +288,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d3614e7c762e99adeffeca54a08ef4b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SNAPON.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0038155bb278274852d5739945e50a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rebel_engineer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

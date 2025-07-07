@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "90f4a1ccfd04d5e1cfdcb95541e9efc4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "larry_military.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e0595a0746016ee1ac6d5675bd78523",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HoE_Mikeforce_Seal_blk.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

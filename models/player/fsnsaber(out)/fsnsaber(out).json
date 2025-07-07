@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "321bfbd78cd50e6a6a873bee6372121d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FSNsaber.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

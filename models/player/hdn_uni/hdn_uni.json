@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -446,7 +447,11 @@
 	],
 	"id": 1414743113,
 	"md5": "25b96c19a7f21f1399eaf9f526a68a48",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Uni.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1375647926,
 	"events": [
@@ -67,7 +68,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f134d1f6a3fb176139750a0445d9d117",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pac_ghost.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

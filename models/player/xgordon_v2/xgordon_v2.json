@@ -58,6 +58,7 @@
 			"name": "glasses"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -336,7 +337,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8daaecdc97999b29c269e3117127e747",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XGordon.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -359,7 +360,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d19f65e91ee76b38814d5729e0b00114",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AB_Dorothy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

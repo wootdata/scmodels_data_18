@@ -43,6 +43,7 @@
 			"name": "Halo"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -650,7 +651,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0661f647976cfee6153344813e89f33c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Ina/Holo_Ina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

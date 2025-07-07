@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "44e0c826933b1cac4c1d55df999bae66",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pumpkin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

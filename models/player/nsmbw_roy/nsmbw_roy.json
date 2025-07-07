@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2d8f3b521c851eaae00fe9bbe46ffc1a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nsmbw_roy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

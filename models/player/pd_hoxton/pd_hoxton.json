@@ -53,6 +53,7 @@
 			"name": "sempei"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d7db121710dda25ee0b1226bf3e10a43",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "helmet.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

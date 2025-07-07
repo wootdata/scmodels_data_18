@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -185,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "275b35246a298c2492fdbe3d00ef15dc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "smith.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

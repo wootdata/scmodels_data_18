@@ -108,6 +108,7 @@
 			"name": "thighs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -386,7 +387,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5902324d5b87bcad12271c2ad97eb977",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ViktorFullMoon.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

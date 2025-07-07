@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -380,7 +381,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a7279038e923355b62f6baa22e9db1f3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Allan\\Desktop\\SovArmy2cap_1965\\SovArmy2cap_1965.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

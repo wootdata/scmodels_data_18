@@ -53,6 +53,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -324,7 +325,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e1fca911d872691c4ebecede41503e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ugg_goosec_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

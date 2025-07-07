@@ -28,6 +28,7 @@
 			"name": "fix"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1267111095,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "081d58614dc023c35914f04e4de4887c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "droid.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

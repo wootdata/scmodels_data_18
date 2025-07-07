@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -838,7 +839,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef4617c76388bb2e79322ffee12c38cc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Helltaker_Modeus_TC.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

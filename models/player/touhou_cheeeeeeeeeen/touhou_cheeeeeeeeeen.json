@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e2cd6d9d1dc6acd81e7887f2aeff1933",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_cheeeeeeeeeen.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

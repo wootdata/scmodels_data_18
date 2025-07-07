@@ -28,6 +28,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ddc02f156455263769fa6b3348bde357",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Administrador\\Escritorio\\RE_UMBRELLA_H(",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

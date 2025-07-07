@@ -113,6 +113,7 @@
 			"name": "Happy"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -446,7 +447,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5c40ef648627e2b5bbe4ce86cab4afca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Happy_SSJ_God.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

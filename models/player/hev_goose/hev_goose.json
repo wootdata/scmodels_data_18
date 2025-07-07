@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6ae9da7c06199efbc9b733d4ba8e1ab9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HEV_Goose.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

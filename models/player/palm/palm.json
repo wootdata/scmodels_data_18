@@ -22,12 +22,17 @@
 			"name": "size"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1522980648,
 	"events": [],
 	"id": 1414743113,
 	"md5": "ad16305bf45dc2bc49be43985f283460",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\palm_tree.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
