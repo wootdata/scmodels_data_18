@@ -65,7 +65,7 @@
 	],
 	"colorable": false,
 	"controllers": [],
-	"date": 1483816774,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -184,6 +184,7 @@
 	"md5": "361f9f2c403196f1b8fbb04c6c98add0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "booksimon_monster.mdl",
 	"preview": false,
 	"readme": false,

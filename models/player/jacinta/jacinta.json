@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092278,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "9d5e261f0c3afbd4a8f26b784bdde627",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "jacinta.mdl",
 	"preview": true,
 	"readme": false,

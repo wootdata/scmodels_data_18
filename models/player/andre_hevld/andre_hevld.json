@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 10,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,38 +20,38 @@
 		{
 			"models": [
 				{
-					"name": "goose2",
-					"polys": 460,
-					"verts": 242
+					"name": "GORDON_BODY",
+					"polys": 893,
+					"verts": 431
 				}
 			],
-			"name": "GOOS"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "wing_L2",
-					"polys": 2196,
-					"verts": 1100
+					"name": "GORDON_ARMS",
+					"polys": 538,
+					"verts": 277
 				}
 			],
-			"name": "wing"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "wing_R2",
-					"polys": 2196,
-					"verts": 1100
+					"name": "GORDON_HELMET",
+					"polys": 114,
+					"verts": 68
 				}
 			],
-			"name": "wing"
+			"name": "head"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -64,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -72,7 +67,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -80,64 +75,63 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": -1.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
-	"date": 1780811529,
+	"date": 1775968622,
 	"events": [
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 8,
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk.wav",
-			"sequence": 9,
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 21,
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 24,
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 27,
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/goose/honk2.wav",
-			"sequence": 30,
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
 			"type": 0
 		}, 
 		{
@@ -199,14 +193,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -324,33 +318,33 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "7e1fca911d872691c4ebecede41503e0",
+	"md5": "39139596a16f6c80a7a1683f3da389eb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "ugg_goosec_v2.mdl",
+	"name": "Andrew_LD.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 42,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
@@ -1289,7 +1283,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1573172,
+	"size": 1082780,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1300,128 +1294,20 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "tail_bone",
-			"parent": 4
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 30
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 31
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1429,27 +1315,207 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 33
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 34
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 14
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 4,
-			"height": 512,
-			"name": "goose.bmp",
-			"width": 512
+			"flags": 0,
+			"height": 64,
+			"name": "PLAYER_Shoulders1.bmp",
+			"width": 64
 		}, 
 		{
-			"flags": 1073741828,
-			"height": 512,
-			"name": "remapR_000_255_255.bmp",
-			"width": 512
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 19,
+			"name": "PLAYER_FootBtm1.bmp",
+			"width": 8
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "FULL_HEV.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 74,
+			"name": "PLAYER_Deltoid1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 91,
+			"name": "HEV_ARM.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 18,
+			"name": "PLAYER_Cuff1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "helmet_Chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 38,
+			"name": "PLAYER_Helm(Top).bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 8,
+			"name": "PLAYER_Helm(Rim)1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 10,
+			"name": "PLAYER_Helm(Rim2).bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 68,
+			"name": "helmet.bmp",
+			"width": 168
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "PLAYER_filterside.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "PLAYER_filterfront.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
